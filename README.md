@@ -21,6 +21,8 @@ Long Video (TODO)
 - Don't need to learn how to setup environment.
 - You can use colab idea and put your demo together, It's good for you to share your fancy demo. 
 
+**Where to download**
+open the file release_ide.md and you can see them.
 
 
 
