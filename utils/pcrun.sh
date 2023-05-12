@@ -18,5 +18,4 @@ if [ ! $(cat $PCCFG_FILE | grep exists) ]; then
     cat $APPEND_FILE >> $PCCFG_FILE
     echo -e "\n" >> $PCCFG_FILE
 fi
-echo $@
 pc run $@
