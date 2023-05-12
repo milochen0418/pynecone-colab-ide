@@ -22,7 +22,7 @@ Long Video (TODO)
 - You can use colab idea and put your demo together, It's good for you to share your fancy demo. 
 
 **Where to download**  
-open the file release_ide.md and you can see them.
+open the file [release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md) and you can see them.
 
 
 
