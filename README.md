@@ -1,6 +1,12 @@
 # pynecone-colab-ide
 **Purpose**   
-Setup colab file as a simple IDE like VSCode for browser's user to develop pynecone app.  
+- Setup colab file as a simple IDE like VSCode for browser's user to develop pynecone app.  
+
+**Cool thing**
+- That's cool to use the free storage from Microsoft - GitHub
+- That's cool to Use the free computing resource from Google - Colab  
+
+
 **Benifit**   
 - Every student in the classroom can use it without any limitation
 - Everyone can develope in shared computer
