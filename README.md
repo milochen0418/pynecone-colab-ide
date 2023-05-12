@@ -1,6 +1,12 @@
 # pynecone-colab-ide
 **Purpose**   
-- Setup colab file as a simple IDE like VSCode for browser's user to develop pynecone app.  
+- For Beginner: Let every Python beginner can start to make their own AI+IoT web app without skill limitations.
+This is released by milochend0418 (It's is not an official tool from Pynecone)
+
+- Howto: Make colab file as a simple IDE for browser's user to develop pynecone app.
+
+[Short Video](https://youtu.be/j1t_-imzqz4)
+Long Video (TODO)
 
 **Cool thing**
 - That's cool to use the free storage from Microsoft - GitHub
