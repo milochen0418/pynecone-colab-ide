@@ -6,6 +6,7 @@ if(exists("/content/app/front_url")):
     with open('/content/app/front_url') as f:
         the_qrcode_url = f.readlines()[0].replace("\n","")
 
+from IPython.display import clear_output
 import pyqrcode
 import png
 from PIL import Image
@@ -20,4 +21,5 @@ url.png(img, scale=5)
 #opening image
 im=Image.open(img)
 #show
-im
+#from IPython.display import Image, display
+#display(Image(filename=img))
