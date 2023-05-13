@@ -7,5 +7,6 @@ cp ./pynecone-colab-ide/utils/append.py ./
 cp ./pynecone-colab-ide/utils/install.sh ./
 cp ./pynecone-colab-ide/utils/tunnel.sh ./
 cp ./pynecone-colab-ide/utils/qrshare.py ./
+cp ./pynecone-colab-ide/utils/cellwebapp.py ./
 mkdir -p /opt/bin
 ln -s /content/app/pynecone-colab-ide/utils/pcrun.sh /opt/bin/pcrun 
