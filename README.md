@@ -1,5 +1,4 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
-[](https://komarev.com/ghpvc/?username=milochen&color=800080)
 
 # pynecone-colab-ide
 **The demo's screenshot of the latest version**   
