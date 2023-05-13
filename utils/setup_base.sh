@@ -10,3 +10,4 @@ cp ./pynecone-colab-ide/utils/qrshare.py ./
 cp ./pynecone-colab-ide/utils/cellwebapp.py ./
 mkdir -p /opt/bin
 ln -s /content/app/pynecone-colab-ide/utils/pcrun.sh /opt/bin/pcrun 
+ln -s /content/app/pynecone-colab-ide/utils/keeprun.sh /opt/bin/keeprun 
