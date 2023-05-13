@@ -17,7 +17,7 @@ url = pyqrcode.create(s)
 
 #saving image
 img = "qr-code.png"
-url.png(img, scale=5)
+url.png(img, scale=4)
 #opening image
 im=Image.open(img)
 #show
