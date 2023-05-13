@@ -1,4 +1,10 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
+[](https://komarev.com/ghpvc/?username=milochen&color=800080)
+
 # pynecone-colab-ide
+**The demo's screenshot of the latest version**   
+<img width="1440" alt="Screenshot 2023-05-13 at 10 35 21 PM" src="https://github.com/milochen0418/pynecone-colab-ide/assets/12568287/63a96a33-8331-41d7-bf0a-dc582853743d">
+
 **Purpose**   
 - For Beginner: Let every Python beginner can start to make their own AI+IoT web app without skill limitations.
 This is released by milochend0418 (It's is not an official tool from Pynecone)
