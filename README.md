@@ -25,6 +25,7 @@ Long Video (TODO)
 - Old or weak computer can use it from browser.
 - Don't need to learn how to setup environment.
 - You can use colab idea and put your demo together, It's good for you to share your fancy demo. 
+- Student can rorever run their demo online with their mobile in slow mode but totally free.
 
 **Where to download**  
 open the file [release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md) and you can see them.
