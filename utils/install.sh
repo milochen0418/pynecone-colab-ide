@@ -26,10 +26,10 @@ echo "Install localtunnel tool"
 npm -q install localtunnel
 
 echo "Install package for generate Url's QR code"
-pip install pyqrcode
-pip install pypng
-pip install Pillow
+pip -q install pyqrcode
+pip -q install pypng
+pip -q install Pillow
 
 
 echo "Install IDE's termianl"
-pip install colab-xterm
+pip -q install colab-xterm
