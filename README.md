@@ -30,5 +30,10 @@ Long Video (TODO)
 **Where to download**  
 open the file [release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md) and you can see them.
 
+# Developer's note  
+**utils**   
+put the main files.    
+**ide-backup**    
+Put The .py file of downloaded colab in this folders. It will save the files for each version of pynecone.   
 
 
