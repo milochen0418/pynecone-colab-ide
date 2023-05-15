@@ -10,5 +10,11 @@ Auto-download all examples on pynecone-examples that support 0.1.28
 2. Setup-less:  Don't need to setup anything on your PC.
 3. Self-Hosting-less: You can open development's result from any PC and mobile without self-hosting. 
 
-## Colab IDE for PC 0.1.29
+## [Colab IDE for PC 0.1.29](https://colab.research.google.com/drive/1Y7mCWlfc9cY8q6pHqVxXwdYudBOdDKa9?usp=sharing)
+
+**Version:**  
+pc 0.1.29, python 3.10, node 16.6, bun 0.5.9.   
+**Examples:**  
+Auto-download all examples on pynecone-examples that support 0.1.29  
+**New Features**:  
 TODO
