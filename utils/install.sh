@@ -9,7 +9,7 @@ curl -fsSL https://bun.sh/install | bash -s -- bun-v0.5.9
 /root/.bun/bin/bun --version
 
 echo "Python pynecone installation procedure"
-pip -q install pynecone==0.1.28
+pip -q install pynecone==0.1.29
 python --version
 pc version
 
