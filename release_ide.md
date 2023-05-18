@@ -18,3 +18,17 @@ pc 0.1.29, python 3.10, node 16.6, bun 0.5.9.
 Auto-download all examples on pynecone-examples that support 0.1.29  
 **New Features**:  
 TODO
+
+
+**There is no pc 0.1.30 since 0.1.31 release in the next day**
+
+
+
+## [Colab IDE for PC 0.1.31](https://colab.research.google.com/drive/1FgCrYGiBthJ9SR-9M7KPpoRVgoHIy1hv?usp=sharing)
+**Version:**  
+pc 0.1.31, python 3.10, node 16.8, bun 0.5.9.   
+**Examples:**  
+Auto-download all examples on pynecone-examples that support 0.1.31  
+**New Features**:  
+TODO
+
