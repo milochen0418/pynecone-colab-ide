@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Node installation procedure"
 npm install -g n
-n 16.6.0
+n 16.8.0
 node --version
 echo "Bun installation procedure"
 curl -fsSL https://bun.sh/install | bash -s -- bun-v0.5.9
@@ -9,7 +9,7 @@ curl -fsSL https://bun.sh/install | bash -s -- bun-v0.5.9
 /root/.bun/bin/bun --version
 
 echo "Python pynecone installation procedure"
-pip -q install pynecone==0.1.29
+pip -q install pynecone==0.1.31
 python --version
 pc version
 
