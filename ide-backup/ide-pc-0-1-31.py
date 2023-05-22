@@ -33,8 +33,9 @@ clear_output()
 
 #@title Get Link & QRCode
 from IPython.display import clear_output, Image, display
-!source /content/app/tunnel.sh 
+!source <(curl -s https://raw.githubusercontent.com/milochen0418/pynecone-colab-ide/main/utils/tunnel.sh)
 clear_output()
+!source <(curl -s https://raw.githubusercontent.com/milochen0418/pynecone-colab-ide/main/utils/open-the-tunnel.sh)
 !python /content/app/qrshare.py
 display(Image(filename="qr-code.png"))
 
