@@ -27,7 +27,7 @@ Long Video (TODO)
 - You can use colab idea and put your demo together, It's good for you to share your fancy demo. 
 - Student can rorever run their demo online with their mobile in slow mode but totally free.
 
-**Where to download**  
+## Download
 - open the file [release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md) to download them.
 
 # Developer's note  
