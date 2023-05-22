@@ -28,7 +28,7 @@ Long Video (TODO)
 - Student can rorever run their demo online with their mobile in slow mode but totally free.
 
 ## Download
-- open the file [release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md) to download them.
+- open the file **[release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md)** to download them.
 
 # Developer's note  
 **utils**   
