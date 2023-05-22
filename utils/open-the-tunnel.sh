@@ -1,7 +1,7 @@
 #!/bin/bash
 echo -e "\n\n\n===================\n"
 echo "Setup your environment"
-echo "Open the following two URLs and submit the IP Address \n(Or just click the blue button 'Click to Continue' if the page has it)"
+echo -e "Open the following two URLs and submit the IP Address \n(Or just click the blue button 'Click to Continue' if the page has it)"
 echo "URL A = " $(cat /content/app/front_url)
 echo "URL B = " $(cat /content/app/url)
 echo "IP Address = " $(wget -q -O - ipv4.icanhazip.com)
