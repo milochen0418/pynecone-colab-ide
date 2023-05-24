@@ -11,3 +11,9 @@ while [ $(cat /content/app/backend.txt | grep -oE "https://[^']+" | wc -m) -lt 1
 while [ $(cat /content/app/frontend.txt | grep -oE "https://[^']+" | wc -m) -lt 16 ]; do sleep 1; done
 echo "https://"$(grep -oP "https://\K[^']+" /content/app/backend.txt)  > /content/app/url
 echo "https://"$(grep -oP "https://\K[^']+" /content/app/frontend.txt)  > /content/app/front_url
+cd /content/app/pynecone-colab-ide/first-tunnel-app
+pc init  
+pcrun &
+cd -
+
+

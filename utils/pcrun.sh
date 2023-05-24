@@ -18,4 +18,6 @@ if [ ! $(cat $PCCFG_FILE | grep exists) ]; then
     cat $APPEND_FILE >> $PCCFG_FILE
     echo -e "\n" >> $PCCFG_FILE
 fi
+kill -9 $(lsof -t -i:8000)
+kill -9 $(lsof -t -i:3000)
 pc run $@
