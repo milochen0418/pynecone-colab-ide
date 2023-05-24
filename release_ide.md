@@ -32,3 +32,4 @@ Auto-download all examples on pynecone-examples that support 0.1.31
 **New Features**:  
 TODO
 
+## [Colab IDE developing pr-fix-issue-13](https://colab.research.google.com/drive/1NuaZEQYeQJkVTXo-QfEUBzLS5WDSKA1j?usp=sharing)
