@@ -32,6 +32,7 @@ classifiers = [
 dynamic = ["version", "readme"]
 dependencies = [
     'pynecone ~= 0.1.30',
+    'colab-xterm',
 ]
 
 [project.urls]
