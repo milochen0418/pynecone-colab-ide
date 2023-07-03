@@ -32,3 +32,13 @@ Auto-download all examples on pynecone-examples that support 0.1.31
 **New Features**:  
 TODO
 
+Because 0.1.32, 0.1.33, and 0.1.34 is unstable for the simple example code, sfo I decide not to release them.  
+The reflex 0.1.34 is pynecone 0.1.34. pynecone 0.1.34 is the final version for pynecone because pynecone start to change the name to reflex.  
+The reflex 0.2.0 is the first stable and released version of reflex.  
+## [Colab IDE for RX 0.2.0]()
+**Version:**  
+rx 0.2.0, python 3.10, node 16.8, bun 0.5.9.   
+**Examples:**  
+Auto-download all examples on pynecone-examples that support 0.2.0  
+**New Features**:  
+TODO
