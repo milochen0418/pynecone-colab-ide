@@ -27,8 +27,9 @@ Long Video (TODO)
 - You can use colab idea and put your demo together, It's good for you to share your fancy demo. 
 - Student can rorever run their demo online with their mobile in slow mode but totally free.
 
-## Download
-- open the file **[release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md)** to download them.
+## Open Colab-IDE
+- Open the [latest IDE for reflex==0.2.0](https://colab.research.google.com/drive/16MXGIlh2m2r9xuq-U7-KFI6zX0PL3rJF)
+- open the file **[release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md)** to find every release.
 
 # Developer's note  
 **utils**   
