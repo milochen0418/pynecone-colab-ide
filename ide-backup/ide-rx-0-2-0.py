@@ -14,9 +14,11 @@ Original file is located at
 # Welcome to fork and star this GPLv3 open source project https://github.com/milochen0418/pynecone-colab-ide
 
 #@title Env Variable Setup
+# NGROK_KEY: You can sign up in https://ngrok.com/ to get auto token
+# OPENAI_KEY: You can sign up and login to https://platform.openai.com, then open https://platform.openai.com/account/api-keys
 import os
-os.environ["NGROK_KEY"]  = "XXXXajtb45hRrUcBy2QwOxxxx0l_xxxxXwtF3XBD5AZqtXXXX" #[Necessary] register your NGROK and setup your auth token here
-os.environ["OPENAI_KEY"] = "sk-xxxLssMupHgoWKKxxxXXx3BlbxxXXwv39Q1kbqCCclcXXX" #[Optional] register OpenAI account set the key and be a paid account.
+os.environ["NGROK_KEY"]  = "Your NGROK_AUTH_TOKEN" #[Necessary] register your NGROK and setup your auth token here
+os.environ["OPENAI_KEY"] = "Your OPENAI KEY" #[Optional] register OpenAI account set the key and be a paid account.
 os.environ["COLAB_IDE_VER"] = "rx-0-2-0" # This variable lock the colab-ide environment as reflex==0.2.0
 
 #@title IDE Clean & Start
