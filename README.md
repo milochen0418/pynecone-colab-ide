@@ -4,6 +4,12 @@
 **The demo's screenshot of the latest version**   
 <img width="1440" alt="Screenshot 2023-05-13 at 10 35 21 PM" src="https://github.com/milochen0418/pynecone-colab-ide/assets/12568287/63a96a33-8331-41d7-bf0a-dc582853743d">
 
+## Open the Colab-IDE
+- Open the [latest IDE for reflex==0.2.0](https://colab.research.google.com/drive/16MXGIlh2m2r9xuq-U7-KFI6zX0PL3rJF)
+- open the file **[release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md)** to find every release.
+
+
+
 **Purpose**   
 - For Beginner: Let every Python beginner can start to make their own AI+IoT web app without skill limitations.
 This is released by milochend0418 (It's is not an official tool from Pynecone)
@@ -27,14 +33,14 @@ Long Video (TODO)
 - You can use colab idea and put your demo together, It's good for you to share your fancy demo. 
 - Student can rorever run their demo online with their mobile in slow mode but totally free.
 
-## Open Colab-IDE
-- Open the [latest IDE for reflex==0.2.0](https://colab.research.google.com/drive/16MXGIlh2m2r9xuq-U7-KFI6zX0PL3rJF)
-- open the file **[release_ide.md](https://github.com/milochen0418/pynecone-colab-ide/blob/main/release_ide.md)** to find every release.
 
 # Developer's note  
-**utils**   
-put the main files.    
 **ide-backup**    
 Put The .py file of downloaded colab in this folders. It will save the files for each version of pynecone.   
+**reflex**  
+Start to support reflex 0.2.0 (renamed from pynecone) at July 7
+- Tunnel: ngrok  
+- Terminal: colab-xterm  
+- Stable Examples: milochen0418/py-webapp (Streamlined from pynecone-io/examples)  
 
 
