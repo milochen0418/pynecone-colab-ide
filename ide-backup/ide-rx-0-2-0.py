@@ -9,30 +9,31 @@ Original file is located at
 
 #@title Colab-IDE for reflex: Welcome to Star & Fork
 # This colab file is contributed by https://github.com/milochen0418
-# Let's everyone can open browser to developing reflex webapp
+# Let everyone can open the browser to develop the reflex web app
 # in every computer without any installation.
-# Welcome to fork and star this GPLv3 open source project https://github.com/milochen0418/pynecone-colab-ide
+# Welcome to click fork and star this GPLv3 open-source project
+# https://github.com/milochen0418/pynecone-colab-ide
 
 #@title Env Variable Setup
-# NGROK_KEY: You can sign up in https://ngrok.com/ to get auto token
-# OPENAI_KEY: You can sign up and login to https://platform.openai.com, then open https://platform.openai.com/account/api-keys
+# NGROK_KEY: You can sign up at https://ngrok.com/ to get auto token
+# OPENAI_KEY: You can sign up and log in to https://platform.openai.com, then open https://platform.openai.com/account/api-keys
 import os
-os.environ["NGROK_KEY"]  = "Your NGROK_AUTH_TOKEN" #[Necessary] register your NGROK and setup your auth token here
-os.environ["OPENAI_KEY"] = "Your OPENAI KEY" #[Optional] register OpenAI account set the key and be a paid account.
-os.environ["COLAB_IDE_VER"] = "rx-0-2-0" # This variable lock the colab-ide environment as reflex==0.2.0
+os.environ["NGROK_KEY"]  = "Your NGROK_AUTH_TOKEN" #[Necessary] Register your NGROK and set up your auth token here.
+os.environ["OPENAI_KEY"] = "Your OPENAI KEY" #[Optional] Register an OpenAI account set the key and be a paid account.
+os.environ["COLAB_IDE_VER"] = "rx-0-2-0" # This variable lock the colab-ide environment as reflex==0.2.0.
 
 #@title IDE Clean & Start
 from IPython.display import clear_output
 import os
 !source <(curl -s https://raw.githubusercontent.com/milochen0418/pynecone-colab-ide/main/reflex/setup_base.sh)
 clear_output()
-!echo "Because IDE Reset, please install reflex environment. If you installed it before, please do it again"
+!echo "Because IDE Reset, please install reflex environment. If you installed it before, please do it again."
 
-#@title Install  (need 2 ~ 3 minutes)
+#@title Install  (need 2 ~ 4 minutes)
 from IPython.display import clear_output
 !source /content/bin/install.sh
 clear_output()
-!echo "Reflex environment setup ready, Please get the link to watch your running result"
+!echo "The reflex environment setup is ready. Please get the link to watch your running result."
 
 # Commented out IPython magic to ensure Python compatibility.
 #@title Get Link & QRCode
