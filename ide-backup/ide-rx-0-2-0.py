@@ -21,6 +21,14 @@ import os
 os.environ["NGROK_KEY"]  = "Your NGROK_AUTH_TOKEN" #[Necessary] Register your NGROK and set up your auth token here.
 os.environ["OPENAI_KEY"] = "Your OPENAI KEY" #[Optional] Register an OpenAI account set the key and be a paid account.
 os.environ["COLAB_IDE_VER"] = "rx-0-2-0" # This variable lock the colab-ide environment as reflex==0.2.0.
+# [Optinal] GitHub setting.
+os.environ["GH_TOKEN"] = "Your GITHUB TOKEN"  # Refer this link to get https://dev.to/shafia/support-for-password-authentication-was-removed-please-use-a-personal-access-token-instead-4nbk
+os.environ["GH_EMAIL"] = "Your email" # I set the email that sign up for my github account.
+os.environ["GH_NAME"] = "You name" # I set milochen0418 because my github is in https://github.com/milochen0418
+!git config --global user.email "$GH_EMAIL"
+!git config --global user.name "$GH_NAME"
+# You can clone project by the following command.
+# git clone https://$GITHUB_TOKEN@github.com/milochen0418/reflex-community-examples.git
 
 #@title IDE Clean & Start
 from IPython.display import clear_output
